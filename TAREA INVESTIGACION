@@ -1,10 +1,89 @@
-###INVESTIGACIÓN 1
+INVESTIGACIÓN 1
 
-##¿Qué es Git?
-#Git es un software de control de versiones que es utilizado para realizar un seguimiento de los cambios realizados a cualquier tipo de archivos de computadora, incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código. 
+¿Qué es Git?
+Git es un software de control de versiones que es utilizado para realizar un seguimiento de los cambios realizados a cualquier tipo de archivos de computadora, 
+incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código. 
 
-##¿Qué es Github?
-#GitHub es una plataforma que pertenece a Microsoft y que permite almacenar, gestionar proyectos de código de programación y controlar las versiones de ese código. 
-#Esta plataforma de desarrollo es de tipo colaborativo y permite el almacenamiento en la nube de los proyectos y además similar a los repositorios comunes, pero además permite compartir estos proyectos con otros usuarios si asó lo desea el usuario, ya que los proyectos también se pueden almacenar de forma privada. 
-#Una de las principales ventajas de GitHub es el control de versiones que ofrece, esto se refiere a la administración de los cambios que se realizan sobre los elementos o la configuración de un proyecto. Esto es algo muy valioso pues permite tener acceso a las versiones anteriores del código si es que en algún momento se presentan fallas con los cambios que se realicen. 
+¿Qué es Github?
+GitHub es una plataforma que pertenece a Microsoft y que permite almacenar, gestionar proyectos de código de programación y controlar las versiones de ese código. 
+Esta plataforma de desarrollo es de tipo colaborativo y permite el almacenamiento en la nube de los proyectos y además similar a los repositorios comunes, 
+pero además permite compartir estos proyectos con otros usuarios si asó lo desea el usuario, ya que los proyectos también se pueden almacenar de forma privada. 
+Una de las principales ventajas de GitHub es el control de versiones que ofrece, esto se refiere a la administración de los cambios que se realizan sobre los 
+elementos o la configuración de un proyecto. Esto es algo muy valioso pues permite tener acceso a las versiones anteriores del código si es que en algún momento 
+se presentan fallas con los cambios que se realicen. 
+
+Markdown y sus Comandos
+Markdown es un lenguaje de marcado ligero que permite la aplicación de formato a un texto empleando cuna serie de caracteres de forma especial, basándose en las 
+reglas de escritura de correo electrónico con texto plano. 
+Usando estos comandos se pueden agregar encabezados, poner texto en negrita, cursiva, crear tablas y listas entre otras mas que se detallan a continuación.  
+
+Títulos y encabezados
+# Título 1
+## Título 2
+### Título 3
+#### Título 4
+##### Título 5
+###### Título 6 
+
+Comandos de Texto 
+*Texto en cursiva*
+_Texto en cursiva_
+**Texto en negrita**
+__Texto en negrita__
+***Texto en cursiva y negrita***
+___Texto en cursiva y negrita___
+
+Citas
+> Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
+
+Crear tablas con Mark Down
+
+| Heading 1 | Heading 2 | Heading 3 |  
+|-----------|:-----------:|-----------:|  
+| Cell A1 | Cell A2 | Cell A3 |  
+| Cell B1 | Cell B2 | Cell B3 |  
+
+Crear Listas
+1. First item.
+1. Second item.
+1. Third item.
+
+Crear listas con viñetas
+- Item 1
+- Item 2
+- Item 3
+
+Insertar vínculos 
+
+[Link Text](Link URL)
+
+Agregar imágenes
+![Texto alternativo](/ruta/a/la/imagen.jpg)
+
+Crear una Lista de tareas
+
+- [ ] A  
+- [ ] B  
+- [ ] C  
+- [x] A  
+- [x] B  
+- [x] C  
+
+Agregar código
+Esto es `código`.
+
+Escribiéndola justo delante de cualquiera de los elementos que verás a continuación, los mismos no tendrán efecto a la hora de convertirse en negritas, cursivas, links
+
+\  barra invertida
+`  acento invertido
+*  asterisco
+_  guión bajo
+{} llaves
+[] corchetes
+() paréntesis
+#  almohadilla
++  símbolo de suma
+-  guión
+.  punto
+!  exclamación
 
