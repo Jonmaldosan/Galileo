@@ -3,6 +3,7 @@ INVESTIGACIÓN 1
 ¿Qué es Git?
 Git es un software de control de versiones que es utilizado para realizar un seguimiento de los cambios realizados a cualquier tipo de archivos de computadora, 
 incluyendo coordinar el trabajo que varias personas realizan sobre archivos compartidos en un repositorio de código. 
+Basicamente es un software que sirve para llevar control del historial de las versiones por las que ha pasado el codigo de un proyecto.
 
 ¿Qué es Github?
 GitHub es una plataforma que pertenece a Microsoft y que permite almacenar, gestionar proyectos de código de programación y controlar las versiones de ese código. 
@@ -13,7 +14,7 @@ elementos o la configuración de un proyecto. Esto es algo muy valioso pues perm
 se presentan fallas con los cambios que se realicen. 
 
 Markdown y sus Comandos
-Markdown es un lenguaje de marcado ligero que permite la aplicación de formato a un texto empleando cuna serie de caracteres de forma especial, basándose en las 
+Markdown es un lenguaje de marcado ligero que permite la aplicación de formato a un texto empleando una serie de caracteres de forma especial, basándose en las 
 reglas de escritura de correo electrónico con texto plano. 
 Usando estos comandos se pueden agregar encabezados, poner texto en negrita, cursiva, crear tablas y listas entre otras mas que se detallan a continuación.  
 
@@ -36,7 +37,7 @@ ___Texto en cursiva y negrita___
 Citas
 > Un país, una civilización se puede juzgar por la forma en que trata a sus animales.  — Mahatma Gandhi
 
-Crear tablas con Mark Down
+Crear tablas con Markdown
 
 | Heading 1 | Heading 2 | Heading 3 |  
 |-----------|:-----------:|-----------:|  
